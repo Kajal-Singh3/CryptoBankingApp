@@ -14,9 +14,9 @@ Checkmark the 10 Test Link and the 0.1 ETH
 
 Testing the code:
 
- Navigate to the folder in which you have saved the python file
- Creata virtual environment
- Activate created environment
+ Navigate to the folder in which you have saved the python file,
+ Create a virtual environment,
+ Activate created environment and
  Run file
  
  
