@@ -1,4 +1,9 @@
 # CryptoBankingApp
+Creation of crypto banking app to perform crypto
+transactions while also testing it with the crypto network to verify the
+transactions
+
+
 
 Before testing the app, make sure you have enough funds in your account. If
 you don't have enough funds add the funds using the Faucet website. Steps are
